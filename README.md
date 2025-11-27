@@ -30,3 +30,6 @@ This repository serves as an overview of my progression — from Python game dev
 | Project | Language | Stack | Description | Score |
 |---------|----------|--------|-------------|--------|
 | [**Iris Dataset — Full Analysis**](https://github.com/callistakarsenty/University_Iris_Dataset) | <img src="https://www.svgrepo.com/show/452091/python.svg" width="20" style="vertical-align: middle;"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="35" style="vertical-align: middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="35" style="vertical-align: middle;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original-wordmark.svg" width="35" style="vertical-align: middle;"/> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="50" style="vertical-align: middle;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" style="vertical-align: middle;"/> | EDA, PCA, regression, Naive Bayes classification & evaluation | **16.5/20** |
+
+
+
